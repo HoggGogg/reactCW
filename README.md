@@ -67,3 +67,4 @@ export default tseslint.config([
   },
 ])
 ```
+VITE_TMDB_API_KEY=13ac19dab796116248d9bbde30de4466

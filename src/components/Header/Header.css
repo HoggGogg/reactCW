@@ -1,0 +1,14 @@
+.app-header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:12px 20px;
+  background:linear-gradient(90deg, #aa5252,#2b2b2b);
+  color:#fff;
+  gap:12px;
+}
+.logo{ cursor:pointer; font-weight:700; font-size:1.2rem;}
+.search{ width:320px; padding:8px 10px; border-radius:8px; border: none; outline:none;}
+@media (max-width:600px){
+  .search{ width:140px;}
+}

@@ -1,0 +1,4 @@
+.pagination-controls{ display:flex; gap:12px; justify-content:center; align-items:center; margin:22px 0;}
+.page-btn{ background:#ff4d4d; color:#fff; border:none; padding:8px 16px; border-radius:20px; cursor:pointer;}
+.page-btn:disabled{ background:#ccc; cursor:not-allowed;}
+.page-number{ font-weight:700;}
